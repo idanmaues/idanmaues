@@ -1,8 +1,8 @@
-### Olá, eu sou o Idan Maués
+### Olá, me chamo Idan Maués e sou estudante de programação
 
-- 🔭 Hoje trabalho com o ramo de barbearias
-- 🌱 Atualmente estou estudando front-end com HTML, CSS, JavaScript e juntamente com Pyton
-- 😄 Pronouns: Ele/dele
+- 🔭 Atualmente trabalho com o ramo de barbearias
+- 🌱 Estudando front-end com HTML, CSS, JavaScript e juntamente com Pyton
+- 
 
 <div align="center">
   <a href="https://github.com/idanmaues">
