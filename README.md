@@ -1,4 +1,4 @@
-### Olá, me chamo Idan Maués e sou estudante de programação
+### Olá, me chamo Idan Maués e sou estudante de Análise e Desenvolvimento de Sistemas na UNAMA
 
 - 🔭 Atualmente trabalho com o ramo de barbearias
 - 🌱 Estudando front-end com HTML, CSS, JavaScript e juntamente com Pyton
